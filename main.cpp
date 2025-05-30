@@ -64,7 +64,7 @@ int main() {
     printf("IVA 21%% : %.2f\n", iva);
     printf("TOTAL+IVA   : %.2f\n", totalConIva);
     printf("TOTAL   : %.2f\n", totalfinal);
-    //hola
+   
     system("pause");
     return 0;
 }
